@@ -1,6 +1,7 @@
 //Rocco Mugetti 
 //Legajo 121136/9
 //Comision 3 , TP1: "Op Art p5js"
+//URL: http://127.0.0.1:8021/
 
 let img; // Declaración de la variable para la imagen
 let cantX = 10; // Cantidad de filas de la grilla
